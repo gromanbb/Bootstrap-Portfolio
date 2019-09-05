@@ -110,7 +110,7 @@ h3 {
   float: left;
 
   /* Box-model */
-  width: 250px;
+  width: 350px;
   height: 90px;
 
   /* Typography */
@@ -382,5 +382,4 @@ input[type=submit] {
 
   /* Visual */
   border: 0 none;
-
 }
