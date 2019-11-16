@@ -134,6 +134,10 @@ nav {
   margin-top: 25px;
 }
 
+.navbar-toggler {
+  cursor: pointer;
+}
+
 nav li {
   display: inline-block;
 
